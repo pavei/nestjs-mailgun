@@ -36,7 +36,7 @@
     "url": "https://github.com/NextNC/nestjs-mailgun"
   },
   "peerDependencies": {
-    "@nestjs/common": "^7.0.7"
+    "@nestjs/common": "^8.0.0"
   },
   "dependencies": {
     "form-data": "^4.0.0",
